@@ -1,0 +1,831 @@
+{
+  "result" : "ok",
+  "tuc" : [ {
+    "phrase" : {
+      "text" : "s┼éowo",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "promise"
+    }, {
+      "language" : "pl",
+      "text" : "obietnica, przyrzeczenie"
+    }, {
+      "language" : "pl",
+      "text" : "s┼éowo honoru - obietnica, kt├│rej mo┼╝na zaufa─ç"
+    }, {
+      "language" : "pl",
+      "text" : "wyr├│┼╝niona fonetycznie lub graficznie cz─Ö┼Ť─ç wypowiedzi sk┼éadaj─ůca si─Ö z jednego lub wi─Öcej morfem├│w, wyra┼╝aj─ůca pewn─ů niezmienn─ů tre┼Ť─ç w danym j─Özyku;"
+    }, {
+      "language" : "en",
+      "text" : "unit of language"
+    }, {
+      "language" : "pl",
+      "text" : "podstawowa porcja informacji, na kt├│rej operuje system komputerowy"
+    }, {
+      "language" : "en",
+      "text" : "a unit of language that native speakers can identify; &quot;words are the blocks from which sentences are made&quot;; &quot;he hardly said ten words all morning&quot;"
+    }, {
+      "language" : "en",
+      "text" : "a promise; &quot;he gave his word&quot;"
+    }, {
+      "language" : "en",
+      "text" : "A distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern."
+    }, {
+      "language" : "en",
+      "text" : "a string of bits stored in computer memory; &quot;large computers use words up to 64 bits long&quot;"
+    }, {
+      "language" : "en",
+      "text" : "The native unit of storage on a particular machine. A word is the largest amount of data that can be handled by the microprocessor in one operation and also, as a rule, is the width of the main data bus. Word sizes of 16 bits and 32 bits are the most common."
+    }, {
+      "language" : "pl",
+      "text" : "elementarna jednostka j─Özyka"
+    } ],
+    "meaningId" : 327880416127822513,
+    "authors" : [ 84 ]
+  }, {
+    "phrase" : {
+      "text" : "wyraz",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "smallest linguistic element that may be uttered in isolation with semantic or pragmatic content"
+    }, {
+      "language" : "pl",
+      "text" : "najmniejszy element lingwistyczny, kt├│ry mo┼╝e by─ç wypowiedziany bez wzgl─Ödu na zawarto┼Ť─ç semantyczn─ů i pragmatyczn─ů"
+    } ],
+    "meaningId" : 7345571212945860925,
+    "authors" : [ 89651 ]
+  }, {
+    "phrase" : {
+      "text" : "s┼éowo bo┼╝e",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "the word of God"
+    } ],
+    "meaningId" : 4375365071759475391,
+    "authors" : [ 70195 ]
+  }, {
+    "phrase" : {
+      "text" : "has┼éo",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "wyra┼╝enie, kt├│re umo┼╝liwia odr├│┼╝nienie swoich od obcych, stosowane w wojsku czy w harcerstwie"
+    }, {
+      "language" : "en",
+      "text" : "a secret word or phrase known only to a restricted group; &quot;he forgot the password&quot;"
+    } ],
+    "meaningId" : 4211453444975519026,
+    "authors" : [ 25115 ]
+  }, {
+    "phrase" : {
+      "text" : "parol",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "wyra┼╝enie, kt├│re umo┼╝liwia odr├│┼╝nienie swoich od obcych, stosowane w wojsku czy w harcerstwie; um├│wione has┼éo"
+    }, {
+      "language" : "en",
+      "text" : "a promise; &quot;he gave his word&quot;"
+    }, {
+      "language" : "en",
+      "text" : "a secret word or phrase known only to a restricted group; &quot;he forgot the password&quot;"
+    } ],
+    "meaningId" : 4342457308432667384,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "debata",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "wymiana zda┼ä na dany temat"
+    }, {
+      "language" : "en",
+      "text" : "an exchange of views on some topic; &quot;we had a good discussion&quot;; &quot;we had a word or two about it&quot;"
+    } ],
+    "meaningId" : 131763768295595639,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "dyskusja",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "wymiana zda┼ä na dany temat"
+    }, {
+      "language" : "en",
+      "text" : "an exchange of views on some topic; &quot;we had a good discussion&quot;; &quot;we had a word or two about it&quot;"
+    } ],
+    "meaningId" : 2540927437834001278,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "dysputa",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "wymiana zda┼ä na dany temat"
+    }, {
+      "language" : "en",
+      "text" : "an exchange of views on some topic; &quot;we had a good discussion&quot;; &quot;we had a word or two about it&quot;"
+    } ],
+    "meaningId" : -4499566558846018507,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "dysputacja",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "dysputa"
+    }, {
+      "language" : "en",
+      "text" : "an exchange of views on some topic; &quot;we had a good discussion&quot;; &quot;we had a word or two about it&quot;"
+    } ],
+    "meaningId" : 4935671399672149235,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "leksem",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "a unit of language that native speakers can identify; &quot;words are the blocks from which sentences are made&quot;; &quot;he hardly said ten words all morning&quot;"
+    } ],
+    "meaningId" : -874243914383235098,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "redagowa─ç",
+      "language" : "pl"
+    },
+    "meaningId" : -30000028522353608,
+    "authors" : [ 89651 ]
+  }, {
+    "phrase" : {
+      "text" : "debatowanie",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "wymiana zda┼ä na dany temat"
+    }, {
+      "language" : "en",
+      "text" : "an exchange of views on some topic; &quot;we had a good discussion&quot;; &quot;we had a word or two about it&quot;"
+    } ],
+    "meaningId" : -7000597946497029746,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "s┼éowo honoru",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "zapewnienie, podparte uczciwo┼Ťci─ů, uroczysta obietnica"
+    }, {
+      "language" : "en",
+      "text" : "a promise; &quot;he gave his word&quot;"
+    } ],
+    "meaningId" : -8771024179229033323,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "s┼éowo maszynowe",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "podstawowa porcja informacji, na kt├│rej operuje system komputerowy; s┼éowo jest liczb─ů z┼éo┼╝on─ů z odg├│rnie okre┼Ťlonej ilo┼Ťci bit├│w"
+    }, {
+      "language" : "en",
+      "text" : "a string of bits stored in computer memory; &quot;large computers use words up to 64 bits long&quot;"
+    } ],
+    "meaningId" : 8503949460194928267,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "sformu┼éowa─ç",
+      "language" : "pl"
+    },
+    "meaningId" : -1103212244378141694,
+    "authors" : [ 25115 ]
+  }, {
+    "phrase" : {
+      "text" : "s┼é├│wko",
+      "language" : "pl"
+    },
+    "meaningId" : -7792665019377293394,
+    "authors" : [ 89651 ]
+  }, {
+    "phrase" : {
+      "text" : "verbum",
+      "language" : "pl"
+    },
+    "meaningId" : 3323734869271208723,
+    "authors" : [ 84500 ]
+  }, {
+    "phrase" : {
+      "text" : "wyrazowy",
+      "language" : "pl"
+    },
+    "meaningId" : -845493988173511168,
+    "authors" : [ 25115 ]
+  }, {
+    "phrase" : {
+      "text" : "S┼éowo maszynowe",
+      "language" : "pl"
+    },
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "base memory unit handled by a computer"
+    } ],
+    "meaningId" : -3578692472532359454,
+    "authors" : [ 122622 ]
+  }, {
+    "phrase" : {
+      "text" : "formu┼éowa─ç",
+      "language" : "pl"
+    },
+    "meaningId" : 8222283681558203888,
+    "authors" : [ 97745 ]
+  }, {
+    "phrase" : {
+      "text" : "mowa",
+      "language" : "pl"
+    },
+    "meaningId" : -4787467487187260741,
+    "authors" : [ 25115 ]
+  }, {
+    "phrase" : {
+      "text" : "nowina",
+      "language" : "pl"
+    },
+    "meaningId" : -598908679174568900,
+    "authors" : [ 89651 ]
+  }, {
+    "phrase" : {
+      "text" : "przekaz",
+      "language" : "pl"
+    },
+    "meaningId" : 6528467909390015826,
+    "authors" : [ 97990 ]
+  }, {
+    "phrase" : {
+      "text" : "rozkaz",
+      "language" : "pl"
+    },
+    "meaningId" : 8640606139950156539,
+    "authors" : [ 20 ]
+  }, {
+    "phrase" : {
+      "text" : "rzecz nowa",
+      "language" : "pl"
+    },
+    "meaningId" : -1121760728748691427,
+    "authors" : [ 83898 ]
+  }, {
+    "phrase" : {
+      "text" : "s┼éowotw├│rstwo",
+      "language" : "pl"
+    },
+    "meaningId" : -7852203602851202673,
+    "authors" : [ 20 ]
+  }, {
+    "phrase" : {
+      "text" : "twierdzenie",
+      "language" : "pl"
+    },
+    "meaningId" : -7383621278575028829,
+    "authors" : [ 20 ]
+  }, {
+    "phrase" : {
+      "text" : "wiadomo┼Ť─ç",
+      "language" : "pl"
+    },
+    "meaningId" : -3239588119309427395,
+    "authors" : [ 89651 ]
+  }, {
+    "phrase" : {
+      "text" : "wypowiada─ç",
+      "language" : "pl"
+    },
+    "meaningId" : 4347330379525123014,
+    "authors" : [ 25115 ]
+  }, {
+    "phrase" : {
+      "text" : "wypowiedzie─ç",
+      "language" : "pl"
+    },
+    "meaningId" : -1284905370545306784,
+    "authors" : [ 25115 ]
+  }, {
+    "phrase" : {
+      "text" : "wys┼éawia─ç",
+      "language" : "pl"
+    },
+    "meaningId" : 5946956573747961887,
+    "authors" : [ 20 ]
+  }, {
+    "phrase" : {
+      "text" : "wys┼éowi─ç",
+      "language" : "pl"
+    },
+    "meaningId" : 4380572855137949443,
+    "authors" : [ 20 ]
+  }, {
+    "meanings" : [ {
+      "language" : "pl",
+      "text" : "wiadomo┼Ť─ç"
+    }, {
+      "language" : "pl",
+      "text" : "rozkaz"
+    }, {
+      "language" : "pl",
+      "text" : "wyrazi─ç w s┼éowach"
+    }, {
+      "language" : "pl",
+      "text" : "wyraz, s┼éowo"
+    }, {
+      "language" : "pl",
+      "text" : "inform. s┼éowo maszynowe <i>(typowej d┼éugo┼Ťci ci─ůg bit├│w, przetwarzany na raz przez dany procesor)</i>"
+    }, {
+      "language" : "pl",
+      "text" : "obietnica, dane komu┼Ť s┼éowo"
+    } ],
+    "meaningId" : -7764188028544285922,
+    "authors" : [ 2 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "telegraphy: unit of text"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "To speak, to use words; to converse, to discourse."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "An order; a request or instruction. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(slang, emphatic, stereotypically urban) An abbreviated form of word up; a statement of the acknowledgment of fact with a hint of nonchalant approval."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "something promised"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(theology, sometimes <b>Word</b> ) Communication from god; the message of the Christian gospel; the Bible. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "To ply or overpower with words."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "a verbal command for action; &quot;when I give the word, charge!&quot;"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 93369 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(in the plural) Angry debate or conversation; argument. [from 15th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(slang, urban) truth, to tell the truth or to speak the truth; the shortened form of the statement, &quot;My word is my bond,&quot; an expression eventually shortened to &quot;Word is bond,&quot; before it finally got cut to just &quot;Word,&quot; which is its most commonly used form."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(group theory) A group element, expressed as a product of group elements."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "<i>See</i> <b>words</b>."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "News; tidings ( <i>used without an article</i>). [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(theology, sometimes <b>Word</b> ) Christ. [from 8th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(computing) A fixed-size group of bits handled as a unit by a machine. On many 16-bit machines a word is 16 bits or two bytes. [from 20th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "Something which is like such a unit of language:"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "word (opinion, objection)"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 2736 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "The fact or action of speaking, as opposed to writing or to action. [from 9th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "A proverb or motto."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "The fact or act of speaking, as opposed to taking action. [from 9th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(computer science) A finite string which is not a command or operator."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "information about recent and important events; &quot;they awaited news of the outcome&quot;"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 93369 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "The smallest unit of language which has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. ( <i>contrast [i]morpheme</i>.[/i]) [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "news, tidings"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "To conjure with a word."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "A distinct unit of language which is approved by some authority."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "put into words or an expression; &quot;He formulated his concerns to the board of trustees&quot;"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 93369 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "say or write using particular words"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(transitive) To say or write (something) using particular words."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "God"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "A watchword or rallying cry, a verbal signal (even when consisting of multiple words)."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "A brief discussion or conversation. [from 15th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "Any sequence of letters or characters considered as a discrete entity. [from 19th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "computing: fixed-size group of bits handled as a unit"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(not even) a syllable"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 2736 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "Logos, Christ. [from 8th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(now rare, except in phrases) Something which has been said; a comment, utterance; speech. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(telegraphy) A unit of text equivalent to five characters and one space. [from 19th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "To say or write (something) using particular words; to phrase (something)."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "A promise; an oath or guarantee. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "News; tidings. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "An order; a request or instruction; an expression of will. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "Communication from God; the message of the Christian gospel; the Bible, Scripture. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "An abbreviated form of <i>word up</i>; a statement of the acknowledgment of fact with a hint of nonchalant approval."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "a brief statement; &quot;he didn&#39;t say a word about it&quot;"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 93369 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "Truth, indeed, that is the truth! The shortened form of the statement &quot;My word is my bond.&quot;"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "Something which has been said; a comment, utterance; speech. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "discussion"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "A distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern. [from 10th c.]"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 1 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "To flatter with words, to cajole."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "<i>Alternative form of [i]worth</i>[/i] (to become)."
+    } ],
+    "meaningId" : null,
+    "authors" : [ 91945 ]
+  }, {
+    "meanings" : [ {
+      "language" : "en",
+      "text" : "(usually) single-character word"
+    } ],
+    "meaningId" : null,
+    "authors" : [ 2736 ]
+  } ],
+  "phrase" : "word",
+  "from" : "en",
+  "dest" : "pl",
+  "authors" : {
+    "1" : {
+      "U" : "http://en.wiktionary.org",
+      "id" : 1,
+      "N" : "en.wiktionary.org",
+      "url" : "https://glosbe.com/source/1"
+    },
+    "2" : {
+      "U" : "http://pl.wiktionary.org",
+      "id" : 2,
+      "N" : "pl.wiktionary.org",
+      "url" : "https://glosbe.com/source/2"
+    },
+    "97990" : {
+      "U" : "",
+      "id" : 97990,
+      "N" : "Glosbe-Trav-plen",
+      "url" : "https://glosbe.com/source/97990"
+    },
+    "91945" : {
+      "U" : "https://en.wiktionary.org",
+      "id" : 91945,
+      "N" : "en.wiktionary.2016",
+      "url" : "https://glosbe.com/source/91945"
+    },
+    "97745" : {
+      "U" : "",
+      "id" : 97745,
+      "N" : "Glosbe-Trav-CDMultilang",
+      "url" : "https://glosbe.com/source/97745"
+    },
+    "2736" : {
+      "U" : "http://www.csse.monash.edu.au/~jwb/j_jmdict.html",
+      "id" : 2736,
+      "N" : "JMdict-Japanese-Multilingual-Dictio...",
+      "url" : "https://glosbe.com/source/2736"
+    },
+    "89651" : {
+      "U" : "",
+      "id" : 89651,
+      "N" : "GlosbeWordalignmentRnD",
+      "url" : "https://glosbe.com/source/89651"
+    },
+    "70195" : {
+      "U" : "",
+      "id" : 70195,
+      "N" : "en.wiktionary.org_2014",
+      "url" : "https://glosbe.com/source/70195"
+    },
+    "84" : {
+      "U" : "http://www.microsoft.com/Language/en-US/Terminology.aspx",
+      "id" : 84,
+      "N" : "MicrosoftLanguagePortal",
+      "url" : "https://glosbe.com/source/84"
+    },
+    "20" : {
+      "U" : "http://www.slowniki.org.pl/",
+      "id" : 20,
+      "N" : "Jerzy Kazojc",
+      "url" : "https://glosbe.com/source/20"
+    },
+    "84500" : {
+      "U" : "",
+      "id" : 84500,
+      "N" : "Open Multilingual Wordnet",
+      "url" : "https://glosbe.com/source/84500"
+    },
+    "93369" : {
+      "U" : "http://plwordnet.pwr.wroc.pl/wordnet/",
+      "id" : 93369,
+      "N" : "plwordnet-defs",
+      "url" : "https://glosbe.com/source/93369"
+    },
+    "25115" : {
+      "U" : "",
+      "id" : 25115,
+      "N" : "GlTrav3",
+      "url" : "https://glosbe.com/source/25115"
+    },
+    "83898" : {
+      "U" : "",
+      "id" : 83898,
+      "N" : "Dbnary: Wiktionary as Linguistic Linked Open Data",
+      "url" : "https://glosbe.com/source/83898"
+    },
+    "122622" : {
+      "U" : "https://www.wikidata.org/",
+      "id" : 122622,
+      "N" : "wikidata",
+      "url" : "https://glosbe.com/source/122622"
+    }
+  }
+}
