@@ -43,6 +43,12 @@ dependencies {
     implementation 'android.arch.lifecycle:extensions:1.1.1'
     kapt "android.arch.persistence.room:compiler:1.1.1"
     implementation "android.arch.persistence.room:rxjava2:1.1.1"
+    implementation 'com.google.dagger:dagger:2.16'
+    kapt 'com.google.dagger:dagger-compiler:2.16'
+    implementation 'com.google.dagger:dagger-android-support:2.16'
+    kapt 'com.google.dagger:dagger-android-processor:2.16'
+    kaptTest 'com.google.dagger:dagger-compiler:2.16'
+    kaptTest 'com.google.dagger:dagger-android-processor:2.16'
     testImplementation 'junit:junit:4.12'
     testImplementation "org.robolectric:robolectric:3.8"
     testImplementation 'com.squareup.okhttp3:mockwebserver:3.6.0'

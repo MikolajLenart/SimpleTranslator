@@ -2,6 +2,7 @@ package com.example.simpletranslator.translation
 
 import android.arch.lifecycle.MutableLiveData
 import android.arch.lifecycle.ViewModelProviders
+import android.support.v7.app.AppCompatActivity
 import com.example.simpletranslator.MainActivity
 import com.example.simpletranslator.repository.TranslationRepository
 import com.nhaarman.mockito_kotlin.any
@@ -81,7 +82,7 @@ class TranslationViewModelTest {
     @Test
     fun shouldDisposeDisposableOnCleared() {
         //given
-        val controller = Robolectric.buildActivity(MainActivity::class.java).create().start().visible();
+        val controller = Robolectric.buildActivity(AppCompatActivity::class.java).create().start().visible();
         val factory = TranslationViewModelFactory(repository, mockedData, compositeDisposable)
         viewModel = ViewModelProviders.of(controller.get(), factory).get(TranslationViewModel::class.java)
 
