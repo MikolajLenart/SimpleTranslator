@@ -3,8 +3,11 @@ package com.example.simpletranslator.repository
 import com.example.simpletranslator.database.TranslationDao
 import com.example.simpletranslator.database.TranslationEntity
 import com.example.simpletranslator.rest.api.TranslationService
+import javax.inject.Inject
 
-class TranslationRepository(val service: TranslationService, val dao: TranslationDao) {
+class TranslationRepository
+@Inject
+constructor(val service: TranslationService, val dao: TranslationDao) {
 
     fun getTranslation(phrase: String) =
             dao.checkIfTranslationExists(phrase).flatMap {

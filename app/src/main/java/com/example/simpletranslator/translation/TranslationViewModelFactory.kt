@@ -6,7 +6,7 @@ import android.arch.lifecycle.ViewModelProvider
 import com.example.simpletranslator.repository.TranslationRepository
 import io.reactivex.disposables.CompositeDisposable
 
-class TranslationViewModelFactory(private val repository: TranslationRepository, private val translationLiveData: MutableLiveData<String>,
+class TranslationViewModelFactory(private val repository: TranslationRepository, private val translationLiveData: MutableLiveData<String> = MutableLiveData(),
                                   private val  compositeDisposable: CompositeDisposable = CompositeDisposable()) : ViewModelProvider.Factory {
 
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
